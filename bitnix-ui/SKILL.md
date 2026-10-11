@@ -94,7 +94,7 @@ A cor vem da marca do cliente. Se não veio no pedido, pergunte (cor principal e
 
 ### 1.8 Voz de interface
 
-Botões no imperativo e em caixa alta (ENTRAR, CONTINUAR, PEDIR ORÇAMENTO, FAZER SIMULAÇÃO, VER PROJETO). Saudação pessoal com o nome em bold. Subtítulo em forma de pergunta direta ("Que profissional você precisa para sua reforma?"). Confirmação com promessa concreta ("Você receberá uma resposta em até 24h").
+**CTA em primeira pessoa.** Botões de decisão falam na voz do usuário, em caixa alta: QUERO ME INSCREVER, QUERO COMPRAR, QUERO PEDIR ORÇAMENTO, QUERO FAZER A SIMULAÇÃO. Quando a decisão parece do usuário, e não uma oferta empurrada, a objeção cai (EU QUERO COMPRAR em vez de VOCÊ ESTÁ ME VENDENDO ALGO). Evite o imperativo de terceira pessoa (INSCREVA-SE, COMPRE AGORA) nos CTAs de conversão; testes A/B de aceitação favorecem a primeira pessoa. Ações de navegação ou utilitárias, sem decisão de compra ou cadastro, podem seguir no imperativo curto (ENTRAR, CONTINUAR, VOLTAR, VER PROJETO). Saudação pessoal com o nome em bold. Subtítulo em forma de pergunta direta ("Que profissional você precisa para sua reforma?"). Confirmação com promessa concreta ("Você receberá uma resposta em até 24h").
 
 ---
 
@@ -334,6 +334,7 @@ Em qualquer contexto:
 - [ ] Cantos retos, com círculo só em avatar, botão de ícone, badge, radio e paginação.
 - [ ] Cor: a marca em bloco chapado dominante, `--ink` de apoio e escada tonal para listas equivalentes.
 - [ ] Componentes vindos da folha comum, sem estilos avulsos que fujam dela.
+- [ ] CTAs de conversão em primeira pessoa (QUERO ME INSCREVER), nunca em imperativo de terceira pessoa.
 - [ ] Responsivo, contraste AA e foco visível.
 
 Por nível de expressão:
