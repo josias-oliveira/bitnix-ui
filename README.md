@@ -72,6 +72,12 @@ Avatar, pares de dado, e botão circular cavalgando a divisória do rodapé do c
 
 <img src="docs/telas/6-app-lista.png" width="320" alt="App lista">
 
+## Versões
+
+Versão atual: **1.1.0**. Veja o [histórico de versões](CHANGELOG.md) e as [releases](https://github.com/josias-oliveira/bitnix-ui/releases).
+
+A v1.1 ampliou o repertório (mais de 25 componentes novos, receitas de catálogo B2B, e-commerce, portfólio, contato e cadastro longo) e incluiu uma memória técnica com medidas de grid, tipografia e cor extraídas de sete referências (seção 8 do `SKILL.md`).
+
 ## Instalação
 
 ```bash
